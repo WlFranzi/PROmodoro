@@ -1,2 +1,2 @@
 # PROmodoro
-homemade pomodoro script for internal use
+homemade pomodoro script for PRO use
