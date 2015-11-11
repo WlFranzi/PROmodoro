@@ -6,4 +6,5 @@ donwload repo
 `git clone git@github.com:WlFranzi/PROmodoro.git`
 
 ##execute
-`ruby promodoro.rb`
+in terminal / promodoro directory run:
+`$ ruby promodoro.rb`
